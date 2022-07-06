@@ -10,6 +10,8 @@ grim.brand - Receive alerts for client brands
 
 grim.nosetback - Disables setbacks for the player. May be used to disable all setbacks at once or as a perk for staff/ranks.
 
+grim.nomodifypacket - Disables nofall correction, timer correction, reach cancelling, and other packet modification.
+
 grim.exempt - The player is ignored by grim
 
 
