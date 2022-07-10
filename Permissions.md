@@ -30,3 +30,7 @@ grim.help - Allows you to use /grim help
 grim.reload - Allows you to use /grim reload
 
 grim.spectate - Allows you to use /grim spectate [player] and /grim stopspectating
+
+grim.log - Allows you to use /grim log [0-255]
+
+grim.verbose - Allows you to use /grim verbose
