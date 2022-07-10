@@ -18,6 +18,10 @@
 
 /grim stopspectating - Return to your original position and leave spectator
 
+/grim log [0-255] - Upload a debug log for a prediction flag
+
+/grim verbose - Show every flag, without a buffer
+
 /version GrimAC - check version of GrimAC
 
 ## Commands for developers, poking at logic, and debugging
