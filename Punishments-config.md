@@ -7,7 +7,7 @@
           - "Simulation"
           - "GroundSpoof"
           - "Timer"
-          # The exclamation mark before this means that commands that match this are excluded from this punishment
+          # The exclamation mark before this means that checks that match this are excluded from this punishment
           - "!NegativeTimer"
           - "NoFall"
         commands:
